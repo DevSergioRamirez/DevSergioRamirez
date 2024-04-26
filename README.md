@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevSergioRamirez
-- 👀 I’m interested in Game dev, web dev, mobile apps, AI
+- 👀 I’m interested in Java backend and AI
 - 🌱 I’m currently learning a bit of everything
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me ...
