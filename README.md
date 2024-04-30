@@ -2,9 +2,6 @@
 - 👀 I’m interested in Java backend and AI
 - 🌱 I’m currently learning a bit of everything
 - 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 DevSergioRamirez/DevSergioRamirez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
